@@ -1,0 +1,37 @@
+#lion_info {
+    text-align: center;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 7px 7px salmon;
+}
+
+
+p {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    flex-direction: row;
+    padding: 20px;
+     text-shadow: 20px forestgreen; 
+     border-radius: 15px;
+     border-width: 20px;
+
+}
+
+h2{
+    text-align: center;
+    border-radius: 7px;
+    color: rgb(167, 102, 42);
+}
+h3{
+    text-align: center;
+    border-radius: 7px;
+    color: rgb(167, 102, 42);
+}
+body {
+    background-color: skyblue;
+}
+
+#container {
+    background-position: center;
+}
